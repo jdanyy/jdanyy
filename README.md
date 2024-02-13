@@ -9,6 +9,19 @@ My ambition is to become a high qualified software developer.
 * 🌍  I'm based in Cluj Napoca
 * ✉️  You can contact me at [jakodaniel8@gmail.com](mailto:jakodaniel8@gmail.com)
 
+### Technologies I have used 
+
+#### Backend
+
+- Java Spring backend
+- Microservice oriented archistructure
+- RabbitMq message broker
+
+#### Frontend 
+
+- React (with Typescript)
+- React Native (with Typescript)
+
 ### Skills
 
 
