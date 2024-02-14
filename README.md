@@ -14,7 +14,7 @@ My ambition is to become a high qualified software developer.
 #### Backend
 
 - Java Spring backend
-- Microservice oriented archistructure
+- Microservice oriented architecture
 - RabbitMq message broker
 
 #### Frontend 
